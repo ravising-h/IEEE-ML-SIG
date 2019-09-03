@@ -14,7 +14,7 @@
 * Some nice videos are [here](https://www.youtube.com/watch?v=rfscVS0vtbw).
 
 
-(presentation)[https://prezi.com/view/GkAZj8mvqEt1HyqJtpFT/]
+
 #### Best way to learn is [Official Documentation](https://docs.python.org/3/)
 
 ### Best resourses for `numpy` is [here](https://scipy-lectures.org/) 
@@ -24,3 +24,5 @@
  * [Udacity](www.udacity.com)
  * [Towards Data Science](https://towardsdatascience.com/)
  * [Kaggle](https://www.kaggle.com/)
+
+ ### (presentation)[https://prezi.com/view/GkAZj8mvqEt1HyqJtpFT/]
