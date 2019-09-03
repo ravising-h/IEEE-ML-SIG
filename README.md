@@ -12,6 +12,9 @@
 * To learn python refer [this link](https://www.udacity.com/course/introduction-to-python--ud1110).
 * Some youtube channels are [corey schafer](https://www.youtube.com/user/schafer5) , [sentdex](https://www.youtube.com/user/sentdex)
 * Some nice videos are [here](https://www.youtube.com/watch?v=rfscVS0vtbw).
+
+
+(presentation)[https://prezi.com/view/GkAZj8mvqEt1HyqJtpFT/]
 #### Best way to learn is [Official Documentation](https://docs.python.org/3/)
 
 ### Best resourses for `numpy` is [here](https://scipy-lectures.org/) 
