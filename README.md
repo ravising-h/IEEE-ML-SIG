@@ -25,4 +25,4 @@
  * [Towards Data Science](https://towardsdatascience.com/)
  * [Kaggle](https://www.kaggle.com/)
 
- ### (presentation)[https://prezi.com/view/GkAZj8mvqEt1HyqJtpFT/]
+  (presentation)[https://prezi.com/view/GkAZj8mvqEt1HyqJtpFT/]
